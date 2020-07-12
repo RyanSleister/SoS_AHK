@@ -1,3 +1,0 @@
-﻿^`::
-Send, Zorag :crab:
-return
